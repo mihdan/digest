@@ -7,6 +7,7 @@
 
 ## Секреты PhpStorm
 - Множественные курсоры в PhpStorm https://www.kobzarev.com/phpstorm-tips/1-multiple-cursors-for-selection/
+- Курсорная линия и боксы в PhpStorm https://www.kobzarev.com/phpstorm-tips/2-cursor-lines-boxes/
 
 ## Любимые сериалы
 
