@@ -4,6 +4,8 @@
 
 - PHP Portal - Дайджест свежих материалов из мира веб-разработки https://www.kobzarev.com/
 - Дайджест свежих материалов из мира WordPress https://wp-digest.ru/
+- WPBRO стрим Upcloud, Runcloud, Elementor optimization via WPI https://wpbro.ru/elementor-optimization-part-1
+- Модульное тестирование в WordPress с PHPUnit - https://wp-punk.com/
 
 ## Секреты PhpStorm
 - Множественные курсоры в PhpStorm https://www.kobzarev.com/phpstorm-tips/1-multiple-cursors-for-selection/
