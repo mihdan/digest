@@ -18,3 +18,7 @@
 ## Бизнес
 
 - Инструменты и веб-приложения для бизнеса и личной продуктивности https://bizzapps.ru/
+
+## WordPress Custom Fileds
+
+- Список ресурсов по Carbon Fields https://github.com/htmlburger/awesome-carbon-fields
